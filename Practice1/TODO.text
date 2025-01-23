@@ -1,0 +1,3 @@
+package.json = npm init --y
+
+express js install = npm install express --save
